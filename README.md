@@ -1,5 +1,4 @@
 # Terraform Templates
-Terraform Templates Repositories
 
 Welcome to my **Terraform Templates** repository! 🎉 
 
